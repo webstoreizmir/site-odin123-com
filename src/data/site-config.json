@@ -1,7 +1,10 @@
 {
   "metadata": {
     "title": "odin | Kadın Spor Giyimde Konfor ve Şıklık",
-    "description": "odin, kadınları düşünen tasarımlarıyla spor yaparken hem rahat hem de şık olmanızı sağlar. Canlı ve yaratıcı koleksiyonumuzu keşfedin."
+    "description": "odin, kadınları düşünen tasarımlarıyla spor yaparken hem rahat hem de şık olmanızı sağlar. Canlı ve yaratıcı koleksiyonumuzu keşfedin.",
+    "isPaid": true,
+    "paidAt": "2026-01-13T13:49:42.838Z",
+    "demoMode": false
   },
   "theme": {
     "colors": {
