@@ -1,7 +1,7 @@
 ---
 import siteConfig from '../data/site-config.json';
 
-const isPaid = (siteConfig as any).is_paid ?? false;
+const isPaid = (siteConfig as any).metadata?.isPaid ?? false;
 
 // Eğer ödeme yapılmışsa hiçbir şey render etme
 if (isPaid) {
